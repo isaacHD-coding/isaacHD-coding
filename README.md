@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there!
+- I'm a learner, with some experience in Python (using Pycharm) and currently studying the Dart and C++ languages (using VS Code).
+- I study Economics and Computer Science at Hillsdale College, where I am a sophomore.
+- I'm currently working on a mobile app designed to help kids with ASD set more clearly defined goals, develop independence, and live better lives.
+- I'm looking to learn more about front-end development and GUI design.
+- Reach me at iestabrook@hillsdale.edu
 <!--
 **isaacHD-coding/isaacHD-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
