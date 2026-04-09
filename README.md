@@ -1,7 +1,8 @@
 ### Hi there!
 - I'm a learner, with some experience in Python (using Pycharm and VSCode)
 - I have data analytics experience using tools such as SQL, R, and Tableau
-- I'm a senior in college studying Economics and Mathematics 
+- I'm a senior in college studying Economics and Mathematics
+- I'm researching the Economics of AI with one of my professors, with a focus on model evaluation
 - I'm looking to learn more about data analysis and visualization
 <!--
 **isaacHD-coding/isaacHD-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
