@@ -1,20 +1,22 @@
-### Hi there!
-- I'm a learner, with some experience in Python (using Pycharm and VSCode)
-- I have data analytics experience using tools such as SQL, R, and Tableau
-- I'm a senior in college studying Economics and Mathematics
-- I'm researching the Economics of AI with one of my professors, with a focus on model evaluation
-- I'm looking to learn more about data analysis and visualization
-<!--
-**isaacHD-coding/isaacHD-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Isaac Estabrook
 
-Here are some ideas to get you started:
+Economics master's student at the Barcelona School of Economics with interests in empirical economics, data analysis, and AI-assisted research tools. B.S. in Economics with a minor in Mathematics from Hillsdale College.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Projects
+
+### AI Econ Atlas
+Research platform organizing 240+ papers on the economics of artificial intelligence into thematic clusters, structured summaries, and searchable research tools. Built with AI-assisted software development using Codex.
+
+### EconCheck
+AI-assisted economics research agent that retrieves FRED data, writes and executes Python code for analysis and visualization, and produces source-grounded responses.
+
+## Research
+
+My recent empirical work includes:
+- Consumer sentiment and its changing relationship with macroeconomic fundamentals
+- South Dakota agricultural land sales and parcel-level spatial data
+- Official export credit and bilateral trade using gravity models
+
+## Tools
+
+R · Python · Stata · MATLAB · Excel · Git/GitHub · Codex
